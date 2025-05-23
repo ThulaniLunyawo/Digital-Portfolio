@@ -51,7 +51,9 @@
 ##  CV Creation
 
 ###  Evidence
--Screenshot of CV creation confirmation from Blackboardy
+-Screenshot of CV creation confirmation from Blackboard
+-Link ([Link here](https://github.com/ThulaniLunyawo/Digital-Portfolio/blob/234d0982f42df2db40dc3ce7d60e08587e1bcaca/CV%20CREATION.png))
+
 
 ### Reflection (STAR)
 **S:** I created my first professional CV.  
