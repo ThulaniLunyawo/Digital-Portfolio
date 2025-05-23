@@ -22,7 +22,7 @@
 ##  Skills and Interests
 
 ###  Evidence
-- Results of a personal skills assessment (add screenshot )
+- Results of a personal skills assessment ([Link here](https://github.com/ThulaniLunyawo/Digital-Portfolio/blob/45e3815cab87f89bc151f00cd7fc7f8ffbb42e5e/Skills%20and%20Interest.png) )
 - Summary of identified interests (coding, problem solving, teamwork)
 
 ### Reflection (STAR)
