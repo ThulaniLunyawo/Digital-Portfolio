@@ -9,7 +9,7 @@
 
 ### Evidence
 - Summary of the session with the Careers Office
-- Link  ([add file or link here](https://github.com/ThulaniLunyawo/Digital-Portfolio/blob/22b68884e10fbd8ed0b594cff2566521ac076beb/CAREER%20COUNSELLING.png))
+- Link  ([link here](https://github.com/ThulaniLunyawo/Digital-Portfolio/blob/22b68884e10fbd8ed0b594cff2566521ac076beb/CAREER%20COUNSELLING.png))
 
 ###  Reflection (STAR)
 **S:** I attended a career counselling session at CPUT.  
