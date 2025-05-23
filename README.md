@@ -1,5 +1,5 @@
 # Work Readiness Digital Portfolio
-**Name:** Thulani Lunyawo  
+**Name:** THULANI LUNYAWO  
 **Module:** PRP370S / PRP371S / PRP372S  
 
 
@@ -67,6 +67,7 @@
 
 ###  Evidence
 - Screenshot of CV submission confirmation from Blackboard
+- Link ([Link here](https://github.com/ThulaniLunyawo/Digital-Portfolio/blob/41fa422ed7783e18d9c83a011ac491295acdf3bc/CV%20SUBMISSION.pdf) )
 
 ###  Reflection (STAR)
 **S:** I submitted my final CV through Blackboard.  
