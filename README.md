@@ -36,7 +36,8 @@
 ##  Personality Assessment
 
 ### Evidence
-- Screenshot or result from 16Personalities 
+- Screenshot or result from 16Personalities
+- Link ([Link here](https://github.com/ThulaniLunyawo/Digital-Portfolio/blob/c808326697092a2a0ecc5dd84a06eb46aa22e34c/PERSONALITY%20ASSESSMENT.png)) 
 
 
 ###  Reflection (STAR)
